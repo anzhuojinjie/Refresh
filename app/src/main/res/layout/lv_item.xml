@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    android:id="@+id/item_rl"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="108px"
+    android:background="#ffffff">
+    <TextView
+        android:id="@+id/item_name"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="24px"
+        android:layout_marginLeft="22px"
+        android:textSize="28px"
+        android:textColor="#333"
+        android:text="张林周 - ZHANGLINZHOU"/>
+    <TextView
+        android:id="@+id/item_num"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_marginLeft="22px"
+        android:layout_marginBottom="16px"
+        android:textColor="#999"
+        android:textSize="26px"
+        android:text="身份证：3729231991999999999999"/>
+</RelativeLayout>
