@@ -116,10 +116,14 @@ step2：在activity中implements RefreshLayout.RefreshLayoutDelegate
     }
 ```
 
-加载更多只有一种效果：
+#加载更多只有一种效果：\r\n
+
+
 ![](https://github.com/anzhuojinjie/Refresh/blob/master/img/i1.png)
 
-仿微博下拉刷新
+#仿微博下拉刷新\r\n
+
+
 ![](https://github.com/anzhuojinjie/Refresh/blob/master/img/i11.png)
 ![](https://github.com/anzhuojinjie/Refresh/blob/master/img/i12.png)
 ``` 
@@ -151,7 +155,9 @@ step2：在activity中implements RefreshLayout.RefreshLayoutDelegate
     }
 ```
 
-仿美团下拉刷新
+#仿美团下拉刷新\r\n
+
+
 ![](https://github.com/anzhuojinjie/Refresh/blob/master/img/i21.png)
 
 ``` 
@@ -188,7 +194,9 @@ step2：在activity中implements RefreshLayout.RefreshLayoutDelegate
     };
 ```
 
-仿慕课网下啦刷新
+#仿慕课网下啦刷新\r\n
+
+
 ![](https://github.com/anzhuojinjie/Refresh/blob/master/img/i31.png)
 ``` 
     //仿慕课网下啦刷新
@@ -221,7 +229,7 @@ step2：在activity中implements RefreshLayout.RefreshLayoutDelegate
         refreshLayout.setRefreshViewHolder(refreshViewHolder);
     }
 ```
-粘性下啦刷新
+#粘性下啦刷新\r\n
 ![](https://github.com/anzhuojinjie/Refresh/blob/master/img/i41.png)
 
 ``` 
