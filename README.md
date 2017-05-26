@@ -117,10 +117,11 @@ step2：在activity中implements RefreshLayout.RefreshLayoutDelegate
 ```
 
 加载更多只有一种效果：
-
+![](https://github.com/anzhuojinjie/Refresh/blob/master/img/i1.png)
 
 仿微博下拉刷新
-
+![](https://github.com/anzhuojinjie/Refresh/blob/master/img/i11.png)
+![](https://github.com/anzhuojinjie/Refresh/blob/master/img/i12.png)
 ``` 
     private void initRefreshLayout(){
         // 为RefreshLayout 设置代理
@@ -151,6 +152,7 @@ step2：在activity中implements RefreshLayout.RefreshLayoutDelegate
 ```
 
 仿美团下拉刷新
+![](https://github.com/anzhuojinjie/Refresh/blob/master/img/i21.png)
 
 ``` 
     private void initMeiTuanRefreshLayout(){
@@ -187,7 +189,7 @@ step2：在activity中implements RefreshLayout.RefreshLayoutDelegate
 ```
 
 仿慕课网下啦刷新
-
+![](https://github.com/anzhuojinjie/Refresh/blob/master/img/i31.png)
 ``` 
     //仿慕课网下啦刷新
     private void initMoocRefreshViewHolder(){
@@ -220,6 +222,7 @@ step2：在activity中implements RefreshLayout.RefreshLayoutDelegate
     }
 ```
 粘性下啦刷新
+![](https://github.com/anzhuojinjie/Refresh/blob/master/img/i41.png)
 
 ``` 
     private void initStickinessRefreshLayout(){
