@@ -25,7 +25,7 @@ step2：在app的gradle根目录下添加
 
 ``` 
 dependencies {
-    compile 'com.github.anzhuojinjie:IOSDialog:1.0'
+    compile 'com.github.anzhuojinjie:Refresh:1.0'
 }
 ```
 
